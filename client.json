@@ -1,5 +1,5 @@
 {
-  "client_id": "https://turksat46.github.io/poka-n8n/client.json",
+  "client_id": "https://turksat46.github.io/n8n-poka-mcp/client.json",
   "client_name": "n8n eShiftbook",
   "redirect_uris": ["https://i1-d.n8n.bosch.com/rest/oauth2-credential/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
